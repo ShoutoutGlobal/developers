@@ -2,14 +2,14 @@
 
 Our API allows you to retrieve informations from our website via GET request and supports the following query parameters:
 
-| Name  | Meaning | Values | Description | Required |
+Markup : | Name  | Meaning | Values | Description | Required |
 | ------------- | ------------- | 
 | type  | Query type.  | get_user_data, posts_data | This parameter specify the type of the query. | YES |
 | limit  |Limit of items.  | LIMIT | This parameter specify the limit of items. Max: 100/Default:20 | YES |
 
 # How to start?
 
- Markup : - Create a development application.
+ Markup : * Create a development application.
           - Once you have created the app, you'll get APP_ID, and APP_SECRET.
           
 Markup :         ![picture](https://www.shoutout.ga/themes/maindesign/img/developer.png)
